@@ -22,3 +22,5 @@ operating systems, attack vectors, prerequisites, and potential outputs.
 information from the documents.
 6. Post-processing and Presentation: Format the extracted information for easy
 interpretation and use.
+
+Also developed a natural language based querying and filtering feature.
