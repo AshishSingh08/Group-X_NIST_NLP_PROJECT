@@ -13,7 +13,9 @@ usage to gather the required documents.
 stop words, and normalizing the text.
 3. Model: NLP model to recognize and extract relevant information such as environments,
 operating systems, attack vectors, prerequisites, and potential outputs.
-4. Information Extraction: Use the appropriate NLP model to extract specific
+  Machine Learning models implemented: Logistic Regression, Random Forest, SVM, Neural Networks
+  Natural Language Processing models implemented: HMM, MEMM, CRF, Transformer based models, BERT, T5
+5. Information Extraction: Use the appropriate NLP model to extract specific
 information from the documents.
-5. Post-processing and Presentation: Format the extracted information for easy
+6. Post-processing and Presentation: Format the extracted information for easy
 interpretation and use.
