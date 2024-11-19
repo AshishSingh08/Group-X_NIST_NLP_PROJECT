@@ -13,8 +13,9 @@ usage to gather the required documents.
 stop words, and normalizing the text.
 3. Model: NLP model to recognize and extract relevant information such as environments,
 operating systems, attack vectors, prerequisites, and potential outputs.
-  Machine Learning models implemented: Logistic Regression, Random Forest, SVM, Neural Networks
-  Natural Language Processing models implemented: HMM, MEMM, CRF, Transformer based models, BERT, T5
+
+  Machine Learning models implemented: Logistic Regression, Random Forest, SVM, Neural Networks.
+  Natural Language Processing models implemented: HMM, MEMM, CRF, Transformer based models, BERT, T5.
 5. Information Extraction: Use the appropriate NLP model to extract specific
 information from the documents.
 6. Post-processing and Presentation: Format the extracted information for easy
